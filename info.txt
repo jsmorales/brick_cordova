@@ -20,7 +20,7 @@ Config.xml file:
 
 Plugins: 
 
-com.phonegap.plugins.barcodescanner,org.apache.cordova.camera,org.apache.cordova.device
+com.phonegap.plugins.barcodescanner,io.litehelpers.cordova.sqlite,org.apache.cordova.camera,org.apache.cordova.device
 
 Android platform:
 
